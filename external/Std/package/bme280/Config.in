@@ -1,0 +1,5 @@
+config BR2_PACKAGE_BME280
+	bool "BME280 personal package"
+        depends on BR2_PACKAGE_WIRINGPI
+	help
+		BME280  package	

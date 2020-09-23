@@ -1,0 +1,2 @@
+dev 1000 dev 1000 =admin /home/dev /bin/sh - Raspberry Pi User Dev
+
